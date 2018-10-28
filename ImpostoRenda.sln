@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRForms", "ImpostoRendaForms\IRForms.csproj", "{22005D1A-AEF5-42FD-BF49-7C2CFD9FE2F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRCalculator", "IRCalculator\IRCalculator.csproj", "{4D65578A-69F9-4D16-8A7B-1637C23F17B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRConsole", "IRConsole\IRConsole.csproj", "{1561D538-8B1F-409D-9F50-9AAEB4CC07E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22005D1A-AEF5-42FD-BF49-7C2CFD9FE2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22005D1A-AEF5-42FD-BF49-7C2CFD9FE2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22005D1A-AEF5-42FD-BF49-7C2CFD9FE2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22005D1A-AEF5-42FD-BF49-7C2CFD9FE2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D65578A-69F9-4D16-8A7B-1637C23F17B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D65578A-69F9-4D16-8A7B-1637C23F17B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D65578A-69F9-4D16-8A7B-1637C23F17B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D65578A-69F9-4D16-8A7B-1637C23F17B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1561D538-8B1F-409D-9F50-9AAEB4CC07E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1561D538-8B1F-409D-9F50-9AAEB4CC07E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1561D538-8B1F-409D-9F50-9AAEB4CC07E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1561D538-8B1F-409D-9F50-9AAEB4CC07E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
